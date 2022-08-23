@@ -1,0 +1,16 @@
+.header {
+  color: blue;
+  padding: 60px;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  width: 30%;
+
+  top: 10;
+  margin-left: 50px;
+  height: 250px;
+}
+.ng-star-inserted {
+  width: 100%;
+}
